@@ -28,3 +28,13 @@ Ticket 6: Evaluate KNN Performance
 - Calculate accuracy, precision, and recall.
 - Use a confusion matrix to visualize misclassifications.
 - Experiment with different values of n_neighbors to see if accuracy improves.
+
+# Phase 3: Documentation
+
+Ticket 7: Document Findings and Comparison
+- Document results, including both KNN and neural network performance.
+- Summarize key insights from each model, comparing accuracy, misclassification patterns, and execution time.
+- 
+Ticket 8: Visualize Results and Create Presentation
+- Plot examples of correctly classified and misclassified images.
+- Prepare slides or a summary document detailing the project overview, steps, results, and conclusions.
