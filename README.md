@@ -1,4 +1,4 @@
-# artificial_intelligence
+# AI Project
 
 # Phase 1: Data Preparation
 
